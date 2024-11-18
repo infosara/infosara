@@ -6,18 +6,10 @@
 
   <!-- Informações -->
   <div style="max-width: 600px; margin-top: 20px;">
-    <h1 style="color: #ff66cc;">Olá, eu sou [Seu Nome] 👋</h1>
+    <h1 style="color: #ff66cc;">Olá, eu sou a Sara ✧</h1>
     <p style="color: #34d399; font-size: 16px;">
-      🔭 Atualmente cursando **Análise e Desenvolvimento de Sistemas** e **Sistemas de Informação**.<br>
-      🌱 Explorando o mundo de **dados** e **tecnologias web**.<br>
-      🚀 Planejando seguir como **analista de dados** ou **cientista de dados**.<br>
-      💼 Proprietário de uma barbearia, com experiência em empreendedorismo.<br>
-      📫 Entre em contato: **seuemail@example.com**
-    </p>
-    <div style="margin-top: 10px;">
-      <a href="https://github.com/seu-usuario" style="text-decoration: none; color: #ff66cc; font-weight: bold;">
-        🌟 Veja meus projetos
-      </a>
+      ✩ Mãe de quatro gatas, apaixonada por tecnologia, focando em analise <br>de dados e iniciando uma paixão por arquitetura de projetos !!
+      </p>
     </div>
   </div>
 </div>
