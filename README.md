@@ -1,15 +1,100 @@
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; font-family: Arial, sans-serif; min-height: 100vh; background-color: #f9f9f9; padding: 20px;">
-  <!-- GIF -->
-  <div>
-    <img src="https://i.pinimg.com/originals/82/6b/82/826b821fcf2a07f1d6092f7595533985.gif" alt="GIF Animado" style="width: 450px; border-radius: 25px;">
-  </div>
+# 🧑🏼‍💻 Sara Cordeiro
 
-  <!-- Informações -->
-  <div style="max-width: 600px; margin-top: 20px;">
-    <h1 style="color: #ff66cc;">Olá, eu sou a Sara ✧</h1>
-    <p style="color: #34d399; font-size: 16px;">
-      ✩ Mãe de quatro gatas, apaixonada por tecnologia, focando em analise <br>de dados e iniciando uma paixão por arquitetura de projetos !!
-      </p>
-    </div>
-  </div>
-</div>
+**`Desenvolvedora Back-end`**
+
+Me chamo Sara Cordeiro, tenho 18 anos e sou natural de Curitiba, Paraná. Atualmente, estou cursando Sistemas da informação na UNIASSELVI. Sou apaixonada por tecnologia e jogos!
+
+<p 
+    <a href="https://www.instagram.com/saracordeiro.py/">
+        <img 
+            alt="Instagram" 
+            title="Instagram" 
+            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/sara-cordeiro-268054301/">
+        <img 
+            alt="LinkdIn" 
+            title="LinkdIn" 
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+</p>
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=infosara&show_icons=true&theme=gruvbox&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=infosara&theme=gruvbox&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
