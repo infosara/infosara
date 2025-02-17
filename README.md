@@ -85,7 +85,7 @@ Me chamo Sara Cordeiro, tenho 18 anos e sou natural de Curitiba, Paraná. Atualm
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=infosara&show_icons=true&theme=gruvbox&include_all_commits=true&locale=pt-br" 
   />
@@ -93,7 +93,7 @@ Me chamo Sara Cordeiro, tenho 18 anos e sou natural de Curitiba, Paraná. Atualm
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=infosara&theme=gruvbox&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
