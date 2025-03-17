@@ -1,8 +1,10 @@
 # 🧑🏼‍💻 Sara Cordeiro
 
-**`Desenvolvedora Back-end`**
+**`Dev Back-end`**
 
 Me chamo Sara Cordeiro, tenho 18 anos e sou natural de Curitiba, Paraná. Atualmente, estou cursando Sistemas da informação na UNIASSELVI. Sou apaixonada por tecnologia e jogos!
+
+My name is Sara Cordeiro, I'm 18 years old and I'm from Curitiba, Paraná, in Brazil. I'm currently studying Information Systems at UNIASSELVI. I'm passionate about technology and games!
 
 <p 
     <a href="https://www.instagram.com/saracordeiro.py/">
