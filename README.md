@@ -62,15 +62,25 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=infosara&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=solarized-dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=infosara&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=maroongold&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=infosara&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=solarized-dark&locale=en&hide_border=true&order=1" height="170" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=infosara&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=maroongold&hide_border=true&order=2" height="170" alt="languages graph"  />
 </div>
+
+###
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/infosara/infosara/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/infosara/infosara/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/infosara/infosara/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 ###
 
 <div align="left">
-  <img height="185" src="https://i.pinimg.com/originals/a8/6a/d8/a86ad8ef8c7b2c30d751e72118050919.gif"  />
+  <img height="200" src="https://i.pinimg.com/originals/a8/6a/d8/a86ad8ef8c7b2c30d751e72118050919.gif"  />
 </div>
 
 ###
