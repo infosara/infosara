@@ -1,20 +1,28 @@
-# 🧑🏼‍💻 Sara Cordeiro
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=7000&pause=2000&color=5D9466&center=true&width=850&height=55&lines=Sara+Cordeiro+%7C+dev+back-end)](https://git.io/typing-svg)
+###
 
-**`Dev Back-end`**
-
-<h1 align="left">Hey 👋 What's up?</h1>
+<p align="left">Me chamo Sara Cordeiro, sou uma iniciante em programação apaixonada por tecnologia, gatos e pequenas conquistas da vida 🪴</p>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
-<h2 align="left">About me</h2>
+<p align="left">Olá! Sou uma desenvolvedora iniciante com formação em curso em Sistemas de Informação. Atualmente, estou aprimorando minhas habilidades em programação, análise de dados e desenvolvimento de software.
 
-###
+📌 Habilidades e Conhecimentos:
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+💡 Lógica de Programação (JavaScript, Python e Java)
+
+🖥️ Desenvolvimento Web (HTML, CSS, JavaScript)
+
+📊 Análise de Dados (Em aprendizado)
+
+🚀 Busco oportunidades para aplicar meus conhecimentos em projetos práticos e expandir minha experiência no setor de tecnologia. Estou sempre aberta a novas conexões e colaborações!
+
+📫 Conecte-se comigo:
+</p>
 
 ###
 
@@ -32,7 +40,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Linguagens e Frameworks</h2>
 
 ###
 
@@ -51,26 +59,18 @@
 </div>
 
 ###
+###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=infosara&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=solarized-dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=infosara&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=maroongold&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/infosara/infosara/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/infosara/infosara/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/infosara/infosara/output/pacman-contribution-graph.svg">
-</picture>
-
 ###
 
-<div align="center">
-  <img height="180" src="https://i.pinimg.com/originals/a8/6a/d8/a86ad8ef8c7b2c30d751e72118050919.gif"  />
+<div align="left">
+  <img height="185" src="https://i.pinimg.com/originals/a8/6a/d8/a86ad8ef8c7b2c30d751e72118050919.gif"  />
 </div>
 
 ###
