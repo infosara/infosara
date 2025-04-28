@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">Olá! Sou uma desenvolvedora iniciante com formação em curso em Sistemas de Informação. Atualmente, estou aprimorando minhas habilidades em programação, análise de dados e desenvolvimento de software.
+<p align="left">Olá! Sou uma desenvolvedora iniciante com formação em curso em Administração. Atualmente, estou aprimorando minhas habilidades em programação, análise de dados e desenvolvimento de software.
 
 📌 Habilidades e Conhecimentos:
 
