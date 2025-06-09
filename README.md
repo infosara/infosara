@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=7000&pause=2000&color=5D9466&center=true&width=850&height=55&lines=Sara+Cordeiro+%7C+dev+back-end)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=7000&pause=2000&color=5D9466&center=true&width=850&height=55&lines=Sara+Cordeiro+%7C+dev+full-stack)](https://git.io/typing-svg)
 ###
 
 <p align="left">Me chamo Sara Cordeiro, sou uma iniciante em programação apaixonada por tecnologia, gatos e pequenas conquistas da vida 🪴</p>
